@@ -12,5 +12,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<logger level="INFO" doc:name="Logger" doc:id="f122b867-7b46-42bd-98cd-62f1063ce953" message="done"/>
 		<logger level="INFO" doc:name="Logger" doc:id="2f2d3819-94af-4629-b665-a932261a8248" message="testdone"/>
 		<logger level="INFO" doc:name="Logger" doc:id="f857c893-bdc3-4ffd-a87f-f1533c497379" message="20111 changes"/>
+		<logger level="INFO" doc:name="Logger" doc:id="f857c893-bdc3-4ffd-a87f-f1533c497379" message="20222 changes"/>
 	</flow>
 </mule>
